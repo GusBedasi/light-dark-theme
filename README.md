@@ -4,7 +4,11 @@ Feito utilizando styled components, useState e um hook personalizado para salvar
 
 ## view:
 
-![](web/src/assets/screenshot.png)
+Modo claro:
+![](web/src/assets/light-screenshot.png)
+
+Modo escuro:
+![](web/src/assets/dark-screenshot.png)
 
 ### Considerações
 
